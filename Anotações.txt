@@ -1,0 +1,14 @@
+Comando para commit: "git commit"
+Para adicionar uma mensagem no commit usar "-m"
+
+Para enviar atualização para o repositorio "git push"
+
+Para criar uma branch "git branch..."
+
+Para trocar de branch "git checkout..."
+
+Para verificar mudanças não comitadas "git status"
+
+Para baixar atualizações não sincronizadas na maquina local "git pull"
+
+Para clonar um repositorio n a maquina local "git clone"
